@@ -1,7 +1,7 @@
 # Olá, eu sou o Samuel Pedro Dopke! 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Seu%20Nome&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Samuel%20Dopke&fontSize=70&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -31,26 +31,23 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelDopke&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSamuelDopke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSamuelDopke&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:samueloficial1@hotmail.com">
     <img src="https://img.shields.io/badge/Contato-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
-    <img src="https://img.shields.io/badge/Conectar-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </div>
