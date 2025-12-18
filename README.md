@@ -9,7 +9,7 @@
 
   <h1>Welcome to my GitHub Profile</h1>
   <p>
-    <strong>🚀 Pursuing a Degree in Systems Analysis and Development</strong><br />
+    <strong>🚀 Pursuing a degree in Systems Analysis and Development</strong><br />
     <span>Constantly evolving and always seeking to learn new things</span>
   </p>
 </div>
