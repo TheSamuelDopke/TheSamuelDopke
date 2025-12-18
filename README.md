@@ -1,12 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=150&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=1a1b27&height=200&section=header&bgImg=https://images.unsplash.com/photo-1506318137071-a8e063b4bcc0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" />
+</div>
+
+<br />
+
+<div align="center">
+  <h1>Full Stack Development</h1>
+  <p>
+    <strong>🚀 Pursuing a Degree in Systems Analysis and Development</strong><br />
+    <span>Focusing on building scalable web applications and modern user interfaces</span>
+  </p>
 </div>
 
 <br />
 
 <div align="center">
   
-  ## 🛠 Tecnologias e Habilidades
+  ## 🛠 Tech Stack
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -26,7 +36,7 @@
 
 <div align="center">
   
-  ## 📊 Estatísticas
+  ## 📊 GitHub Analytics
   
   <table border="0">
     <tr>
@@ -46,7 +56,7 @@
 
 <div align="center">
   
-  ## 📫 Contato Direto
+  ## 📫 Get in touch
   
   <a href="https://wa.me/5549988058339" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
