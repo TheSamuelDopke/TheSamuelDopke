@@ -1,12 +1,10 @@
-# Olá 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Samuel%20Dopke&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=23272e&height=180&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=40" />
 </div>
 
 <div align="center">
   
-  ## 💻 Tech Stack
+  ## 🛠 Tecnologias e Habilidades
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -22,29 +20,31 @@
 
 </div>
 
----
+<br />
 
 <div align="center">
   
-  ## 📊 GitHub Analytics
+  ## 📊 Atividade no GitHub
   
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelDopke&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelDopke&layout=compact&langs_count=8&theme=react&hide_border=true" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSamuelDopke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TheSamuelDopke&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" />
       </td>
     </tr>
   </table>
 </div>
 
-
 ---
 
 <div align="center">
   <a href="mailto:samueloficial1@hotmail.com">
-    <img src="https://img.shields.io/badge/Contato-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-samueloficial1%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </div>
