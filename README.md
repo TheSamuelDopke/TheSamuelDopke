@@ -16,15 +16,26 @@
 
 <br />
 
-### 🛠 Tech Stack (Main Skills)
+### 🛠 Tech Stack & Tools
 
+#### 🌐 Frontend & Core
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Chakra_UI-0D1117?style=for-the-badge&logo=chakraui&logoColor=319795&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117" />
+</div>
+
+<br />
+
+#### ⚙️ Backend & Libraries
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Zod-0D1117?style=for-the-badge&logo=zod&logoColor=3E67B1&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Dexie.js-0D1117?style=for-the-badge&logo=dexie&logoColor=5DE2E7&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/ESLint-0D1117?style=for-the-badge&logo=eslint&logoColor=4B32C3&labelColor=0D1117" />
 </div>
 
 <br />
