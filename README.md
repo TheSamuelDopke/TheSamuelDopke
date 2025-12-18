@@ -3,14 +3,14 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi!+Welcome+to+my+GitHub!;Feel+at+home+😊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi!+Welcome+to+my+GitHub!;Feel+at+home+%F0%9F%98%8A" alt="Typing SVG" />
 
   <br />
 
   <h1>Eternal Learner 📚</h1>
   <p>
     <strong>🚀 Pursuing a Degree in Systems Analysis and Development</strong><br />
-    <span>Constantly evolving and building modern web applications</span>
+    <span>Constantly evolving and always seeking to learn new things</span>
   </p>
 </div>
 
