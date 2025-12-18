@@ -1,4 +1,4 @@
-# Olá, eu sou o Samuel Pedro Dopke! 👋
+# Olá 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=200&section=header&text=Samuel%20Dopke&fontSize=70&animation=fadeIn" />
