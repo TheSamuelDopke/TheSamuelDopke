@@ -1,13 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?q=80&w=1200&auto=format&fit=crop" />
+  <img src="https://i.gifer.com/8Z2a.gif" width="600px" style="border-radius: 15px;" />
 
   <br />
 
-  <img src="https://i.gifer.com/8Z2a.gif" width="300px" style="border-radius: 10px;" />
-
-  <br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Feel+at+ease+to+explore+my+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Feel+at+ease+to+explore+my+projects!" alt="Typing SVG" />
 
   <br />
 
