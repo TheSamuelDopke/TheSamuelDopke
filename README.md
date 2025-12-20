@@ -34,11 +34,11 @@
 #### ⚙️ Backend & Libraries
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/Dexie.js-5DE2E7?style=for-the-badge&logo=databricks&logoColor=000&labelColor=5DE2E7" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
 </div>
-
 <br />
 
 ### 📊 GitHub Analytics
