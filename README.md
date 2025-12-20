@@ -20,22 +20,23 @@
 
 #### 🌐 Frontend & Core
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Chakra_UI-0D1117?style=for-the-badge&logo=chakraui&logoColor=319795&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 <br />
 
 #### ⚙️ Backend & Libraries
 <div align="left">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Zod-0D1117?style=for-the-badge&logo=zod&logoColor=3E67B1&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Dexie.js-0D1117?style=for-the-badge&logo=dexie&logoColor=5DE2E7&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/ESLint-0D1117?style=for-the-badge&logo=eslint&logoColor=4B32C3&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dexie.js-5DE2E7?style=for-the-badge&logo=databricks&logoColor=000&labelColor=5DE2E7" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
 </div>
 
 <br />
